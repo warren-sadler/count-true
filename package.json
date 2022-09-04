@@ -1,0 +1,15 @@
+{
+  "name": "count-true",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "pnpm jest"
+  },
+  "keywords": [],
+  "author": "Warren Sadler",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
